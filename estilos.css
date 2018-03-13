@@ -1,0 +1,66 @@
+.container{
+    background-color: 	#D3D3D3;
+    color: #F0FFFF;
+}
+.container a{
+    background-color: 	#D3D3D3;
+    color: red;
+}
+.page-header {
+    background-color: #cc3333;
+}
+.page-header a{
+    background-color: #cc3333;
+  color: #F0FFFF
+}
+.page-header small{
+    background-color: #cc3333;
+  color: #F0FFFF
+}
+.page-header img{
+    background-color: #cc3333;
+}
+.navbar-inverse {
+    position: relative;
+    margin-top: -10px;
+}
+.carousel {
+    position: relative;
+    margin-top: 83px;
+}
+
+#cine {
+      background-color: #000000;
+      color: #F0FFFF;
+      text-align: center;
+}
+
+#cine2 ,  #cine3 {
+      background-color:	#000000;
+      color: #F0FFFF;
+      text-align: center;
+      font-size: 20px;
+}
+
+#dias{
+  display:inline-block;
+}
+
+#semana{
+  display:inline-block;
+}
+.carousel-inner>.active, .carousel-inner>.next, .carousel-inner>.prev {
+    display: inline-block;
+}
+
+#expand{
+  float: center;
+}
+
+#myCarousel2{
+  margin: 0px;
+}
+
+#despliegue{
+  margin-top: 10px;
+}
